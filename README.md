@@ -10,4 +10,6 @@
 
 ### Development Ideas 💡
 
-1. [ ] Have a "dictionary" that holds all Wolt venues, if possible. Have a search bar and allow searching for your desired venue.
+1. [ ] Have a dictionary that holds all Wolt venues, if possible.
+2. [ ] Have a search bar and allow searching for your desired venue.
+3. [ ] If a venue is closed, provide the option to be notified when it opens.
