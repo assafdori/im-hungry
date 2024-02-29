@@ -2,7 +2,7 @@
 
 #### This repository holds the code for the web application that sends API requests to Wolt databases and tells you if your desired venue is open or closed.
 
-### Technologies Included 👨🏽‍💻
+### Technologies Involved 👨🏽‍💻
 
 - Python 🐍
 - Docker 🐋
