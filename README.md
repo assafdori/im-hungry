@@ -8,6 +8,6 @@
 - Docker 🐋
 - More to be added
 
-#### Development Ideas:
+#### Development Ideas 💡
 
 1. [ ] Have a "dictionary" that holds all Wolt venues, if possible. Have a search bar and allow searching for your desired venue.
