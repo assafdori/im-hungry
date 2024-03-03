@@ -9,7 +9,7 @@ def check_venue_status():
     api_url = "https://consumer-api.wolt.com/order-xp/web/v1/venue/slug/hamosad/dynamic/"
     try:
         response = requests.get(api_url, verify=False)
-        print("--------------------------")
+        print("-----------debugger start---------------")
         print(response.json()["venue"]["delivery_open_status"]["is_open"])
         data = response.json()["venue"]["delivery_open_status"]
         return data["is_open"]
