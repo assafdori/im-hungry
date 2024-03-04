@@ -22,5 +22,5 @@ def index():
     return jsonify({"is_open": check_venue_status()})
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5000)
+    app.run(debug=True, port=8080)
 
